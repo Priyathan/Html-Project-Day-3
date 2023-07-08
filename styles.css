@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:black;
+    background-color: red;
+    background-image: url("https://marketing.gettyimages.com/wp-content/uploads/sites/7/2020/12/thumbnail-00283dda01a011ebac93ef1aa00544f6.jpeg");
+
+}
+.form1{
+    border: 5px solid mediumvioletred;
+    width: 750;
+    height: 500;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    background-color: pink;
+    
+}
+#aa{
+    border: 1px solid maroon;
+    width: 200;
+    height: 475;
+    background-color: maroon;
+}
